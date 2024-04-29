@@ -1,0 +1,3 @@
+interface PictureFeature {
+    void takePicture();
+}
